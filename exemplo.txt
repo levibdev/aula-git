@@ -2,3 +2,6 @@ exemplo para teste.txt
 
 
 treino para compreender a tarefa
+
+
+praticando git 16\02\2025
